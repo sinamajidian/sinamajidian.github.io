@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "sina"
   avatar           : "profile.png"
-  bio              : "PhD student @ IUST"
+  bio              : "PhD student @ IUST. "
   location         : "Tehran"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed?term=Sina%20Majidian%5BAuthor%5D"
   googlescholar    : "https://scholar.google.nl/citations?user=pgzi_1QAAAAJ&hl=en"
-  email            :
+  email            : "sina.majidian@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
