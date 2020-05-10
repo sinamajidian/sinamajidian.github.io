@@ -26,7 +26,7 @@ Recent news
 * 2020-05-05, I've got rejected an interview with [CafeBazaar](https://cafebazaar.ir/?l=en) for a data scientist position.
 * 2020-09-01, The result of my journey at WUR is out now [Hap10](https://www.biorxiv.org/content/10.1101/2020.01.08.899013v1), many thanks to Prof. Dick de Ridder.
 * 2019-10-02, I'm leaving Wageningen with lots of experiences.
-* 209-08-06, I'm proud to receive offer letter from (Baylor College of Medicine)[https://www.hgsc.bcm.edu/] as an Exchange visitor to Human Genome Sequencing Center under supervision of (Dr. Fritz J Sedlazeck) [https://fritzsedlazeck.github.io/].
+* 209-08-06, I'm proud to receive offer letter from [Baylor College of Medicine](https://www.hgsc.bcm.edu/) as an Exchange visitor to Human Genome Sequencing Center under supervision of [(]Dr. Fritz J Sedlazeck] (https://fritzsedlazeck.github.io/).
 * 2019-04-11, A great collaboration with Mehdi: [HapManifold](https://ieeexplore.ieee.org/document/8686170) is published in IEEE Signal Processing Letters.
 * 2019-03-26, My first paper,[HapMC](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214455), is published in PLOS one.
 * 2019-03-21, I had an Skype interview with [The Jackson Laboratory](www.jax.org) as a computational sciences summer intern.
