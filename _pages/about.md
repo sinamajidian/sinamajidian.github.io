@@ -12,7 +12,7 @@ redirect_from:
 About Me
 ======
 Welcome to my home page! I am a PhD candidate at Iran University of Science & Technology (IUST) since 2015 under supervision of [Dr. Kahaei](http://www.iust.ac.ir/content/45107/Dr.-Kahaei). My research interest is in the broad disciplines related to data and signal processing particularly in genomics.
-I previously interned at Wageningen university in The Netherlands under supervision of (Prof. Dick de Ridder)[https://www.wur.nl/en/Persons/Dickprof.dr.ir.-D-Dick-de-Ridder.htm].
+I previously interned at Wageningen university in The Netherlands under supervision of [Prof. Dick de Ridder](https://www.wur.nl/en/Persons/Dickprof.dr.ir.-D-Dick-de-Ridder.htm).
 
 Email: s_majidian@yahoo.com
 
@@ -40,4 +40,4 @@ Recent news
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=VShtC3JgpgjUaKmTNEZNND4dt-0RCjfRPXSoPcIN1dA&cl=ffffff&w=a"></script>
+<<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=VShtC3JgpgjUaKmTNEZNND4dt-0RCjfRPXSoPcIN1dA&co=a9cbe3'></script>
