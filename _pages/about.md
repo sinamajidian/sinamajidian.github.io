@@ -37,7 +37,3 @@ Recent news
 * 2017-07-01, I've defended my PhD proposal.
 * 2016-11-23, I've passed my PhD Comprehensive Exam.
 * 2015-09-23, I've started my PhD at Iran university of science and technology [(IUST)](http://www.iust.ac.ir/en).
-
-
-
-<<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=VShtC3JgpgjUaKmTNEZNND4dt-0RCjfRPXSoPcIN1dA&co=a9cbe3'></script>
