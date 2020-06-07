@@ -13,6 +13,8 @@ About Me
 ======
 This is Sina Majidian.
 
+Email: s_majidian@yahoo.com
+
 
 
 
