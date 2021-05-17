@@ -33,6 +33,17 @@ Honours
 
 Publications
 ======
+# 2021
+
+
+
+
+9. Matrix Completion Using Graph Total Variation Based on Directed Laplacian Matrix. Circuits, Systems, and Signal Processing, 2021. ([paper](https://link.springer.com/article/10.1007/s00034-020-01613-5)).
+
+8. Matrix completion with weighted constraint for haplotype estimation. Digital Signal Processing, 2021. ([paper](https://www.sciencedirect.com/science/article/pii/S1051200420302256)).
+
+7. Anti-angiogenic effects of testis-specific gene antigen 10 on primary endothelial cells. Gene, 2021. ([paper](https://www.sciencedirect.com/science/article/pii/S0378111920305254))
+
 
 * Hap10: reconstructing accurate and long polyploid haplotypes using linked reads. BMC Bioinformatics, 2020. ([paper](https://www.biorxiv.org/content/10.1101/2020.01.08.899013v1.abstract) [code](https://github.com/smajidian/Hap10)).
 
