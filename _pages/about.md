@@ -42,7 +42,7 @@ Research interests
 Recent news
 ======
 
-* I've submitted a conference paper for the (Basel Computational Biology Conference)[https://www.bc2.ch/].
+*  2021-5-16, I've submitted a conference paper for the (Basel Computational Biology Conference)[https://www.bc2.ch/].
 * 2021-5-1, I arrived in Lausanne Switzerlands to start a PostDoc at Department of Computational Biology, (the University of Lausanne)[https://www.unil.ch/dbc/en/home.html].
 * 2021-03-01, I've got promoted to the manager of Bioinformatics Department in Life and Me company.
 * 2020-12-01, I've started to work for the (Life and Me company)[https://lifeandme.net/] in Tehran as a bioinformatic analyst.
