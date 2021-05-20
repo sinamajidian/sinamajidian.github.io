@@ -1,16 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and submissions"
 permalink: /publications/
 author_profile: true
 ---
 
-
-14. Overexpression of TSGA10 in HeLa cells downregulates miR-183 level; TSGA10 defeats miR-183/HIF1A network. *Submitted*.
-
-13. The critical role of RHOXF1 transcription factor in the stress response expression of TSGA10 by a transcriptional regulation network in testis and cancer tissues. *Submitted*.
-
-12. Responses of cucumber (Cucumis sativus L.) rhizosphere microbial community to some agronomic management practices. *Submitted*.
 
 # 2021
 
@@ -40,5 +34,12 @@ author_profile: true
 2. Direction of arrival (DOA) estimation using kronecker subspace. *Signal and Data Processing*, 2018, [abstract](http://dx.doi.org/10.29252/jsdp.15.1.29).
 
 
-
 1. Direction of arrival (DOA) estimation using Khatri-Rao subspace. 2017. *Journal of Iranian Association of Electrical and Electronics Engineers*. [abstract](http://jiaeee.com/article-1-386-en.html).
+
+# Submissions
+
+14. Overexpression of TSGA10 in HeLa cells downregulates miR-183 level; TSGA10 defeats miR-183/HIF1A network. *Submitted*.
+
+13. The critical role of RHOXF1 transcription factor in the stress response expression of TSGA10 by a transcriptional regulation network in testis and cancer tissues. *Submitted*.
+
+12. Responses of cucumber (Cucumis sativus L.) rhizosphere microbial community to some agronomic management practices. *Submitted*.

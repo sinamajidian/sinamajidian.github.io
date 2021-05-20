@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 
-* PhD in Electrical Engineering. Iran University of Science & Technology (IUST), 2020 (expected).
-* M.Sc. in Telecommunications, Iran University of Science & Technology (IUST) , 2015.
-* B.Sc. in Telecommunications, Shahid Beheshti University, 2008.
+* PhD in Electrical Engineering. Iran University of Science & Technology (IUST), (2015-2020).
+* M.Sc. in Telecommunications, Iran University of Science & Technology (IUST), (2013-2015).
+* B.Sc. in Telecommunications, Shahid Beheshti University, (2008-2013).
 
 Skills
 ======

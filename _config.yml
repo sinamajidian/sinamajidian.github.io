@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "sina"
+  name             : "Sina"
   avatar           : "profile.png"
-  bio              : "PhD student @ IUST. "
-  location         : "Tehran"
-  employer         :
+  bio              : "Postdoctoral Fellow"
+  location         : "Lausanne"
+  employer         : "University of Lausanne"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed?term=Sina%20Majidian%5BAuthor%5D"
   googlescholar    : "https://scholar.google.nl/citations?user=pgzi_1QAAAAJ&hl=en"
-  email            : "sina.majidian@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "sina.majidian (at) gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Sina-Majidian-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sina-majidian/"
   orcid            : "https://orcid.org/0000-0001-5345-6982"
   pinterest        :
   soundcloud       :
