@@ -11,9 +11,10 @@ redirect_from:
 
 Welcome to my home page!
 
-I finished my PhD in 2020 at Iran University of Science and Technology where I was working on mathematical analysis of the haplotype assembly problem under supervision of [Dr. Kahaei](http://www.iust.ac.ir/content/45107/Dr.-Kahaei). I spent one year as a guest researcher in the Bioinformatics group of Wageningen University working on polyploid haplotype estimation using 10X Genomics linked-read data under supervision of [Prof. Dick de Ridder](https://www.wur.nl/en/Persons/Dickprof.dr.ir.-D-Dick-de-Ridder.htm). I have joined [Prof. Christophe Dessimoz](https://lab.dessimoz.org/people/christophe-dessimoz.php)'s lab as a Postdoctoral Fellow to develop algorithms for orthology inference since May 2021.
+I finished my PhD in 2020 at Iran University of Science and Technology where I was working on mathematical analysis of the haplotype assembly problem under supervision of [Dr. Kahaei](http://www.iust.ac.ir/content/45107/Dr.-Kahaei). I spent one year as a guest researcher in the Bioinformatics group of Wageningen University working on polyploid haplotype estimation using 10X Genomics linked-read data under supervision of [Prof. Dick de Ridder](https://www.wur.nl/en/Persons/Dickprof.dr.ir.-D-Dick-de-Ridder.htm). I have joined [Prof. Christophe Dessimoz](https://lab.dessimoz.org/people/christophe-dessimoz.php)'s lab as a Postdoctoral Fellow to develop algorithms for orthology inference since May 2021. My lab webpage is [here](https://lab.dessimoz.org/people/sina_majidian).
 
-**I would be happy to initiate new projects and collaborations. Email: sina.majidian (at) unil.ch**
+**I would be happy to initiate new projects and collaborations.**
+Email: sina.majidian (at) unil.ch
 
 
 
@@ -40,10 +41,10 @@ Research interests
 Recent news
 ======
 
-*  2021-5-16, I've submitted a conference paper for the (Basel Computational Biology Conference)[https://www.bc2.ch/].
-* 2021-5-1, I arrived in Lausanne Switzerlands to start a PostDoc at Department of Computational Biology, (the University of Lausanne)[https://www.unil.ch/dbc/en/home.html].
+*  2021-5-16, I've submitted a conference paper for the [Basel Computational Biology Conference](https://www.bc2.ch/).
+* 2021-5-1, I arrived in Lausanne Switzerlands to start a PostDoc at Department of Computational Biology, [the University of Lausanne](https://www.unil.ch/dbc/en/home.html).
 * 2021-03-01, I've got promoted to the manager of Bioinformatics Department in Life and Me company.
-* 2020-12-01, I've started to work for the (Life and Me company)[https://lifeandme.net/] in Tehran as a bioinformatic analyst.
+* 2020-12-01, I've started to work for the [Life and Me company](https://lifeandme.net/) in Tehran as a bioinformatic analyst.
 * 2020-07-28, I defended my PhD thesis with an excellence rank [Announcement in Persian](http://fn.iust.ac.ir/content/60476/%D8%AF%D9%81%D8%A7%D8%B9%DB%8C%D9%87-%D8%A2%D9%82%D8%A7%DB%8C-%D8%B3%DB%8C%D9%86%D8%A7-%D9%85%D8%AC%DB%8C%D8%AF%DB%8C%D8%A7%D9%86).
 * 2020-09-09, I've submitted a proposal for the Marie Curie Postdoc fellowship.
 * 2020-07-17, I got accepted to work as a postdoc in UCL. Unfortunately, London is too expensive!
