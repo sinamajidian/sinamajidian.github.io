@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Sina Majidian"
-excerpt: ""
+excerpt: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-About Me
-======
 Welcome to my home page!
 
 I finished my PhD in 2020 at Iran University of Science and Technology where I was working on mathematical analysis of the haplotype assembly problem under supervision of [Dr. Kahaei](http://www.iust.ac.ir/content/45107/Dr.-Kahaei). I spent one year as a guest researcher in the Bioinformatics group of Wageningen University working on polyploid haplotype estimation using 10X Genomics linked-read data under supervision of [Prof. Dick de Ridder](https://www.wur.nl/en/Persons/Dickprof.dr.ir.-D-Dick-de-Ridder.htm). I have joined [Prof. Christophe Dessimoz](https://lab.dessimoz.org/people/christophe-dessimoz.php)'s lab as a Postdoctoral Fellow to develop algorithms for orthology inference since May 2021.
