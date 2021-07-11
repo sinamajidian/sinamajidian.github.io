@@ -18,7 +18,7 @@ author_profile: true
 
 8. **PhaseME: Automatic rapid assessment of phasing quality and phasing improvement. *GigaScience***, 2020, [paper](https://academic.oup.com/gigascience/article/9/7/giaa078/5875849), [code](https://github.com/smajidian/phaseme)
 
-7. **Hap10: reconstructing accurate and long polyploid haplotypes using linked reads. *BMC Bioinformatics***, 2020, [paper](https://www.biorxiv.org/content/10.1101/2020.01.08.899013v1.abstract),  [code](https://github.com/smajidian/Hap10).
+7. **Hap10: reconstructing accurate and long polyploid haplotypes using linked reads. *BMC Bioinformatics***, 2020, [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03584-5),  [code](https://github.com/smajidian/Hap10).
 
 6. Minimum error correction-based haplotype assembly: considerations for long read data. *PLOS one*, 2020, [paper](https://arxiv.org/abs/1803.05019v2), [code](https://github.com/smajidian/MEC).
 
