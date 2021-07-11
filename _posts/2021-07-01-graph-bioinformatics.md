@@ -15,9 +15,9 @@ Recently, I have started to read on the applications of graph analysis in bioinf
 Review articles 
 ------
 
-- Computational pan-genomics status, promises and challenges, https://doi.org/10.1093/bib/bbw089
+- Computational pan-genomics status, promises and challenges [paper](https://doi.org/10.1093/bib/bbw089).
 
-- Pangenome Graphs, https://doi.org/10.1146/annurev-genom-120219-080406
+- Pangenome Graphs [paper](https://doi.org/10.1146/annurev-genom-120219-080406).
 
 
 
