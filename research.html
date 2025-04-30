@@ -42,32 +42,110 @@
   <div id="toptitle">
 
 
-<h1>Past Research Studies</h1>
+<h1>Dr. Sina Majidian's Research Studies</h1>
 </div>
 
 
-<li> Orthology and phylogeny inference at scale, along with their applications, are my main research interests. I have developed methods and written software in the field of comparative genomics, aiming to enable evolutionary analysis at the scale of the Tree of Life. I contributed to the development of Read2Tree, a fast and accurate method for inferring phylogenies from sequencing reads. I am also the first author of FastOMA, a tool for accurately identifying orthologous genes by distinguishing them from paralogs. This tool makes a significant impact in orthology prediction and addressing the challenges of growing large- scale genomic data.  
+Pangenomes are now redefining our understanding of genetic variations across populations and genome evolution across species. A single reference genome cannot fully represent human genetic diversity, even when it is complete enough to be considered “Telomere-to-Telomere”. To fully harness the power of pangenomes in biomedicine, there is a pressing need for efficient methods to store, visualize, and extract relevant information.  My research program aims to understand human genome variation and evolution across different genomic regions by developing interpretable and efficient methods in comparative pan-genomics. 
+
+
+<p>&nbsp;</p> 
+
+
+
+<center><img src="photos/faculty_mindmap_past.png" alt="Past Research studies of Dr. Sina Majidian, Faculty candidate" width="800px" />&nbsp; </center>
+
+
+<p>&nbsp;</p> 
+
+
+<h3>  Comparative genomics </h3>
+
+
+Orthology and phylogeny inference at scale, along with their applications, are my main research interests. I have developed methods and written software in the field of comparative genomics, aiming to enable evolutionary analysis at the scale of the Tree of Life. I contributed to the development of Read2Tree, a fast and accurate method for inferring phylogenies from sequencing reads. I am also the first author of FastOMA, a tool for accurately identifying orthologous genes by distinguishing them from paralogs. This tool makes a significant impact in orthology prediction and addressing the challenges of growing large-scale genomic data.  
+
+
+<ul>
+  <li  style="color:black;font-size:14px" > S. Majidian,  Y. Nevers, A. Yazdizadeh, A. Vesztrocy, S. Pascarelli, D. Moi, N. Glover, A. Altenhoff, C. Dessimoz. Orthology inference at scale with FastOMA.
+   <a href="https://doi.org/10.1038/s41592-024-02552-8"> Nature Methods</a>,  2024. 
+      <a href="https://github.com/DessimozLab/fastoma">code</a>,  <a href="https://www.youtube.com/watch?v=KGetTUMDvlA&t=2s"> YouTube Talk.</a>,
+ </li>
+
+   <li style="color:black;font-size:14px"> D. Dylus , A. Altenhoff , S. Majidian , F. Sedlazeck, C. Dessimoz, Inference of phylogenetic trees directly from raw sequencing reads using Read2Tree.
+    <a href="https://www.nature.com/articles/s41587-023-01753-4"> Nature Biotechnology</a>,
+       2024.
+    <a href="https://github.com/DessimozLab/read2tree">code</a>.
   </li>
 
-<img src="photos/Orthology.png" alt="Orthology inference" width="800px" />&nbsp;
+ <li style="color:black;font-size:14px"> A. Nicheperovich, A. Altenhoff, C. Dessimoz, S. Majidian*,  OMAMO: orthology-based alternative model organism selection.
+    <a href="https://doi.org/10.1093/bioinformatics/btac163"> Bioinformatics</a>,
+     2022,
+   <a href="https://github.com/DessimozLab/omamo">code</a>,
+   <a href="https://omamo.omabrowser.org/">web service</a>.
+  </li>
 
 
-<li> 
+
+ </ul>
+
+<center><img src="photos/Orthology.png" alt="Orthology inference" width="800px" />&nbsp;</center>
+
+
+<p>&nbsp;</p> 
+
+
+<h3>  Haplotype assembly</h3>
+
+
  Haplotype assembly was the main focus of my PhD, leading to five first-author and two second-author publications. I have developed software for estimating haplotype blocks from single nucleotide variants (SNVs) called from DNA sequencing reads. In one project, I benefited from low-rank matrix recovery in haplotype estimation and applied it to human sequencing data. In another project, I studied hexaploid sweet potato (Ipomoea batatas) using a 10X Genomics linked-read dataset, which resulted in long and accurate haplotypes. A longstanding problem in the field was understanding the limitations of the Minimum Error Correction (MEC) approach in haplotype assembly, for which I developed a solid framework. 
+
+
+<ul>
+
+
+  <li style="color:black;font-size:14px"> S. Majidian, F. Sedlazeck, PhaseME: Automatic rapid assessment of phasing quality and phasing improvement.
+    <a href="https://academic.oup.com/gigascience/article/9/7/giaa078/5875849"> GigaScience</a>,2020, <a href="https://github.com/sinamajidian/phaseme/">code</a>.
   </li>
 
-<img src="photos/Haplotype.png" alt="Haplotype inference" width="412px" />&nbsp;
+  <li style="color:black;font-size:14px"> S. Majidian, M. Kahaei, D. de Ridder, Hap10: reconstructing accurate and long polyploid haplotypes using linked reads.
+    <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03584-5"> BMC Bioinformatics</a>, 2020,
+    <a href="https://github.com/sinamajidian/Hap10/">code</a>.
+  </li>
+
+  <li style="color:black;font-size:14px"> S. Majidian, M. Kahaei, D. de Ridder, Minimum error correction-based haplotype assembly: considerations for long read data.
+    <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234470"> PLOS one</a>, 2020, <a href="https://github.com/sinamajidian/Hap10/">code</a>.
+  </li>
+ 
+  <li style="color:black;font-size:14px">  M. Mohades,  S. Majidian, M. Kahaei, Haplotype assembly using manifold optimization and error correction mechanism.
+    <a href="https://ieeexplore.ieee.org/abstract/document/8686170/"> IEEE Signal Processing Letters</a>, 2019.
+  </li>
+
+</ul>
+
+<center><img src="photos/Haplotype.png" alt="Haplotype inference" width="412px" />&nbsp;</center>
 
 
-<li> 
+<p>&nbsp;</p> 
+
+<h3> Genomic variant benchmark</h3>
+
+
 Genomic variant benchmark datasets are crucial for assessing the performance of sequencing technologies and analytical methods; however, their development involves multiple sequencing technologies, different variant calling tools, and laborious manual curation. In one study, I reviewed available benchmark datasets and their utility, with a focus on genes of medical relevance. In another study, in collaboration with the Genome in a Bottle team, I co-led an effort to develop a genomic resource by defining various challenging genomic contexts used to investigate the strengths and weaknesses of variant callers, which is published in Nature Communication.
-  </li>
-
-<img src="photos/Benchmark.png" alt="Genetic variation Benchmark" width="412px"/>&nbsp;
 
 
+<ul>
+<li style="color:black;font-size:14px"> N. Dwarshuis, N. Kalra, ..., J. Wagner, S. Majidian*, J. Zook*, The GIAB genomic stratifications resource for human reference genomes.  <a href="https://www.nature.com/articles/s41467-024-53260-y"> Nature Communications</a>, 2024. 
+</li>
 
- <br>
+<li style="color:black;font-size:14px"> S. Majidian, D. Paiva Agustinho,  F. Sedlazeck, M. Mahmoud, Genomic variant benchmark: if you cannot measure it, you cannot improve it..
+  <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03061-1"> Genome Biology</a>, 2023.
+</li>
+
+ </ul>
+
+<center><img src="photos/Benchmark.png" alt="Genetic variation Benchmark" width="412px"/>&nbsp;</center>
+
+
 
 
 </ul>
@@ -80,11 +158,11 @@ Genomic variant benchmark datasets are crucial for assessing the performance of 
 <ul>
 
 
-<li> Fahimeh Palizban. Inferring copy number variation with cell-free DNA data, University of Lausanne, 2024.  
+<li> Fahimeh Palizban. Inferring copy number variation with cell-free DNA data, University of Lausanne, 2024.   (Currently at Children's Hospital of Philadelphia)
   </li>
 
- <li> Arung Maurya. Reconstructing cancer phylogenies with Spatial Transcriptomics, University of Lausanne, 2023.  
-  </li>
+ <li> Arung Maurya. Reconstructing cancer phylogenies with Spatial Transcriptomics, University of Lausanne, 2023.  (Currently Research Engineer at Institut Pasteur)
+  </li> 
  
   <li> Sara Lamei. Analysing biosynthetic pathway of terpenoids in fenugreek using RNA-seq data. Tarbiat Modares University, 2022.
   </li>
@@ -106,11 +184,15 @@ Genomic variant benchmark datasets are crucial for assessing the performance of 
 <h4>Summer interns </h4>
 <ul>
 
-  <li> Ali Yazdizadeh. Importance of phylogenetic rooting for orthology inference, 2022. (Incoming PhD student in Computational Biology, USA.)
+  <li> Ali Yazdizadeh. Importance of phylogenetic rooting for orthology inference, 2022.  (Incoming PhD student in Computational Biology, USA.)
   </li>
 
-  <li>  Borbala Banfalvi, Claire Wang, and Petros Liakopoulos.  Natural Language Question Answering over Knowledge Graphs,  2022.
+  <li>  Borbala Banfalvi, Natural Language Question Answering over Knowledge Graphs, 2022. (Currently PhD student at Queen Mary University London).
   </li>
+
+<li>  Claire Wang, Natural Language Question Answering over Knowledge Graphs,  2022. (Currently PhD student at University of Cambridge).
+  </li>
+
 
   <li> Alina Nicheperovich. Orthology guided model organism selection, 2021. (Now DPhil Candidate at the University of Oxford, UK.)
   </li>
